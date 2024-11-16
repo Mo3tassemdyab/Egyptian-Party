@@ -13,3 +13,5 @@
 # ScreenShots
 ### 1) Home
 ![egy1](https://github.com/user-attachments/assets/385a68d0-214b-4d6f-aece-24c876b87e0f)
+
+### 2) Duration
